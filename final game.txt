@@ -1,0 +1,3 @@
+objects: player, sword hitbox, enemys, walls?
+states: play, pause, break
+use: p5
